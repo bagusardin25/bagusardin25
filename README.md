@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Actpreneur Boot Camp
+- 🌱 I’m currently learning Backend Development
+- 👯 I’m looking to collaborate on tech project that bring real impact to education and productivity
+- 🤔 I’m looking for help with optimizing AI workflows and scalable app developmen
+- 💬 Ask me about software development, psychology, and digital bisnis
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I combine tech and psychology to create solutions that are both smart and human-centered
