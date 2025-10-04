@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My is name is Bagus Ardin Prayoga
-⚡ Fun fact: I combine tech and psychology to create solutions that are both smart and human-centered
+- ⚡ Fun fact: I combine tech and psychology to create solutions that are both smart and human-centered
 
 
 <!--
