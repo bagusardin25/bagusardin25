@@ -1,6 +1,6 @@
 ## Hi👋
 
-I'm Bagus Ardin Prayoga
+I'm Bagus Ardin Prayoga,
 See my projects 👇
 https://bagusardinprayoga-portfolio.vercel.app/
 
