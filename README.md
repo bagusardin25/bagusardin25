@@ -1,6 +1,8 @@
 ## Hi👋
 
-I combine tech and psychology to create solutions that are both smart and human-centered
+I'm Bagus Ardin Prayoga
+See my projects 👇
+https://bagusardinprayoga-portfolio.vercel.app/
 
 
 <!--
