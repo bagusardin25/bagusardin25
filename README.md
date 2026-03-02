@@ -1,8 +1,9 @@
-## Hi👋
+## Hi 👋
 
-I'm Bagus Ardin Prayoga,
-See my projects 👇
-https://bagusardinprayoga-portfolio.vercel.app/
+I'm **Bagus Ardin Prayoga**  
+
+💻 Check out my portfolio:  
+🔗 [bagusardinprayoga-portfolio.vercel.app](https://bagusardinprayoga-portfolio.vercel.app/)
 
 
 <!--
