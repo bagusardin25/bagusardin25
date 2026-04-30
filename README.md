@@ -5,7 +5,7 @@ I build scalable digital solutions with a focus on human-centered design, combin
 
 Currently focused on **Microservices Architecture**, **Express.js**, and **Laravel**.
 
-🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinprayoga@gmail.com](mailto:bagusardinprayoga@gmail.com)
+🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinp@gmail.com](mailto:bagusardinp@gmail.com)
 
 ---
 
