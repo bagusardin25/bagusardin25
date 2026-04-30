@@ -5,7 +5,7 @@ I build scalable digital solutions with a focus on human-centered design, combin
 
 Currently focused on **Microservices Architecture**, **React**, and **Laravel**.
 
-🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinprayoga@gmail.com](mailto:bagusardinprayoga@gmail.com)
+🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinprayoga@gmail.com](mailto:bagusardinprayoga@gmail.com)
 
 ---
 
@@ -20,14 +20,10 @@ Currently focused on **Microservices Architecture**, **React**, and **Laravel**.
 
 ## 🚀 Highlighted Work
 
-### [EAI Microservices](https://github.com/bagusardin25/EAI-UTS-ServiceToService)
-A full-stack microservices architecture built with **Laravel**, **Node.js**, **React**, and **Docker**. Features inter-service communication, role-based authentication, and containerized deployment.
-
-### [DesaDinamika](https://github.com/bagusardin25/DesaDinamika-app)
-An interactive AI-powered platform simulating village governance and policy analysis. Built with **Next.js**, **TypeScript**, and **React** for the GEMASTIK 2025 competition.
+### [TeamDynamics](https://github.com/bagusardin25/TeamDynamics)
+**🏆 Top 3 Winner — TestSprite Hackathon Season 2**  
+A real-time team management and collaboration tool designed to enhance productivity and team synergy. Built with **React** and **TypeScript**.
 
 ### [SkillBridge](https://github.com/bagusardin25/SkillBridge-app)
+**🏆 Top 10 Finalist — TestSprite Hackathon Season 1**  
 A modern E-Learning platform (LMS) with dynamic course content, progress tracking, and interactive features. Built with **Next.js** and **TypeScript**.
-
-### [TeamDynamics](https://github.com/bagusardin25/TeamDynamics)
-A real-time team management and collaboration tool designed to enhance productivity and team synergy. Built with **React** and **TypeScript**.
