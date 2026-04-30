@@ -3,7 +3,7 @@
 
 I build scalable digital solutions with a focus on human-centered design, combining technical expertise with an understanding of psychology. 
 
-Currently focused on **Microservices Architecture**, **React**, and **Laravel**.
+Currently focused on **Microservices Architecture**, **Express.js**, and **Laravel**.
 
 🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinprayoga@gmail.com](mailto:bagusardinprayoga@gmail.com)
 
@@ -22,8 +22,8 @@ Currently focused on **Microservices Architecture**, **React**, and **Laravel**.
 
 ### [TeamDynamics](https://github.com/bagusardin25/TeamDynamics)
 **🏆 Top 3 Winner — TestSprite Hackathon Season 2**  
-A real-time team management and collaboration tool designed to enhance productivity and team synergy. Built with **React** and **TypeScript**.
+TeamDynamics is a multi-agent simulation platform for modeling team behavior during organizational crises. It uses psychologically-profiled AI agents and a real-time, Slack-like interface to help predict risks such as burnout, misalignment, and team breakdown.
 
 ### [SkillBridge](https://github.com/bagusardin25/SkillBridge-app)
 **🏆 Top 10 Finalist — TestSprite Hackathon Season 1**  
-A modern E-Learning platform (LMS) with dynamic course content, progress tracking, and interactive features. Built with **Next.js** and **TypeScript**.
+SkillBridge is an AI-powered web app that generates structured learning roadmaps, presents them on an interactive visual canvas, provides an AI tutor and quizzes per topic, and tracks learner progress and profile metrics.
