@@ -7,6 +7,7 @@ Currently focused on **Microservices Architecture**, **Express.js**, and **Larav
 
 🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinp@gmail.com](mailto:bagusardinp@gmail.com)
 
+<!--
 ---
 
 ## 🛠️ Core Technologies
@@ -15,10 +16,10 @@ Currently focused on **Microservices Architecture**, **Express.js**, and **Larav
 - **Frontend:** React, Next.js, Vue.js, TailwindCSS
 - **Backend:** Node.js, Express.js, Laravel
 - **Infrastructure:** PostgreSQL, MySQL, Docker, Git
-
+-->
 ---
 
-## 🚀 Highlighted Work
+## Highlighted Work
 
 ### [TeamDynamics](https://github.com/bagusardin25/TeamDynamics)
 **🏆 Top 3 Winner — TestSprite Hackathon Season 2**  
