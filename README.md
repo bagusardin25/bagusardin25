@@ -1,12 +1,5 @@
 <!-- # Bagus Ardin Prayoga -->
-**Software Engineer**
-
-<!-- I build scalable digital solutions with a focus on human-centered design, combining technical expertise with an understanding of psychology. 
-
-Currently focused on **Microservices Architecture**, **Express.js**, and **Laravel**.
--->
-
-🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) <!--| 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinp@gmail.com](mailto:bagusardinp@gmail.com)
+**Software Engineer** 🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) <!--| 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinp@gmail.com](mailto:bagusardinp@gmail.com)
 -->
 <!--
 ---
