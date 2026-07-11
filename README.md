@@ -1,5 +1,5 @@
 <!-- # Bagus Ardin Prayoga -->
-**Software Engineer** 🔗 [Portfolio](https://bagusardinprayoga-portfolio.vercel.app/) <!--| 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinp@gmail.com](mailto:bagusardinp@gmail.com)
+**Software Engineer** 🔗 [Portfolio](https://bagusardinprayoga.vercel.app/) <!--| 💼 [LinkedIn](https://www.linkedin.com/in/bagusardin27/) | 𝕏 [@ArdinPrayoga](https://x.com/ArdinPrayoga) | ✉️ [bagusardinp@gmail.com](mailto:bagusardinp@gmail.com)
 -->
 <!--
 ---
